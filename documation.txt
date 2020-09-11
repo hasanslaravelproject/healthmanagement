@@ -1,0 +1,9 @@
+Step 1 : open url extract zp
+Step 2 : setup database details to .env.
+Step 3 : run "php artisan migrate:fresh -seed"
+Step 3 : once you complete it, then you can jump on login/register page.
+default login details
+ admin@email.com
+ secret
+ user@email.com
+ secret
